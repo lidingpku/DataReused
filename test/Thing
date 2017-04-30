@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
-<p itemscope itemtype="http://example.org/Thing" vocab="http://schema.org/" typeof="Person">
+<p itemscope itemtype="http://schema.org/Thing" vocab="http://schema.org/" typeof="Person">
   <span itemprop="name" property="schema:name">John Doe</span> is its name.
 </p>
 </html>
