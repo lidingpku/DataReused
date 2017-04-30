@@ -1,0 +1,3 @@
+<p itemscope itemtype="http://example.org/Thing" typeof="http://example.org/Thing">
+  <span itemprop="name" property="schema:name">John Doe</span> is its name.
+</p>
